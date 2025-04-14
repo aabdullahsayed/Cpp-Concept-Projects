@@ -1,4 +1,4 @@
-#C++ Concepts & Projects 🚀
+# C++ Concepts & Projects 🚀
 
 A curated collection of C++ projects covering core concepts, OOP, STL, and data structures for interview preparation and skill mastery.
 
